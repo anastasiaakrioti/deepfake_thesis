@@ -17,3 +17,15 @@ The analysis is conducted on three distinct datasets — each with unique charac
 
 The full thesis is available in this repository as `akrioti_19003.pdf`.
 
+---
+
+## Source Code
+
+The full source code of the deepfake detection model is included in this repository as `deepfake_detection.py`.
+
+Due to computational complexity, the model was originally developed and executed in [Kaggle](https://www.kaggle.com/code/anastasiaakr/efficientnet), and the final version is shared here for reference.
+
+> Note: The script contains all core components, including preprocessing, training, and evaluation.
+
+
+
